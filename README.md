@@ -315,7 +315,7 @@ Response: Created category object with generated ID
    - Click the **"Use this template"** button at the top of this repository
    - Create a new repository in your own GitHub account
    - Name it something like `design-system-assignment-yourname`
-   - Make it **public** so we can review it
+   - Make it **private** and invite @omarsh99, @thisismahabadi, and @turculaurentiu91 so we can review it
 
 2. **Set Up Locally:**
    - Clone your new repository to your local machine
